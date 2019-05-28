@@ -94,7 +94,7 @@ Pod::Spec.new do |spec|
   spec.source_files  = "CXAnyModel", "CXAnyModel/**/*.{h,m}"
   # spec.exclude_files = "CXAnyModel/AnyBind"
 
-  spec.public_header_files = "CXAnyModel/CXAnyModelEntrance.h", "CXAnyModel/CXAnyModel/AnyModel/CXAnyModel.h"
+  spec.public_header_files = "CXAnyModel/CXAnyModelEntrance.h", "CXAnyModel/AnyModel/CXAnyModel.h"
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
